@@ -1,8 +1,8 @@
 # DCBD Assignment 1 - MapReduce for Top 10 First Words
 
 ## Student Information
-- **Name:** Atralita Saha
-- **Roll Number:** MDS202515
+- **Name:** Ahana Sen
+- **Roll Number:** MDS202505
 - **Course:** Distributed Computing and Big Data
 
 ## Project Description
